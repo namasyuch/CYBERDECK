@@ -21,6 +21,7 @@ The Cyberdeck will use a Raspberry Pi as the main computer, along with displays,
 The Cyberdeck will use a laptop-style enclosure. The main 3.8-inch display will be placed in the upper section with the smaller display beside it. The keyboard, mouse and controls will be placed in the lower section.
 
 The internal layout will be designed so the components are securely mounted inside the enclosure while keeping the device portable.
+![Cyberdeck Design](WIN_20260924_17_42_43_Pro.jpg)
 
 ## Purpose
 
