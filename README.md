@@ -2,20 +2,19 @@
 
 Cyberdeck is a portable Raspberry Pi-based computer designed as a compact workstation for coding, electronics work and everyday experiments.
 
-## Main Features
+## Features
 
-* 3.8-inch main display
-* Small secondary display for system information
-* Compact keyboard and mouse
-* Camera
-* Speaker and audio output
-* Battery and power-status monitoring
-* Portable enclosure
-* Raspberry Pi as the main computer
+* Portable laptop-style design
+* Main display with a secondary information display
+* Portable coding and development workstation
+* Battery-powered operation
+* System status and battery monitoring
+* Camera and audio support
+* Compact input controls
 
 ## Hardware
 
-The main computer will be a Raspberry Pi. The project will include a main display, secondary display, keyboard and mouse, camera, speaker, battery/power system and the required control electronics.
+The Cyberdeck will use a Raspberry Pi as the main computer, along with displays, keyboard and mouse, camera, speaker, battery/power system and other required electronics.
 
 ## Design
 
@@ -25,7 +24,7 @@ The internal layout will be designed so the components are securely mounted insi
 
 ## Purpose
 
-The goal is to build a compact personal computer that combines a Raspberry Pi, displays, input devices and electronics into one portable device.
+The goal is to build a compact personal computer that combines computing, displays, input devices and electronics into one portable device.
 
 ## Current Progress
 
